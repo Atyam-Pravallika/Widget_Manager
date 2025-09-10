@@ -60,3 +60,8 @@ Follow these steps to set up and run the application on your local machine.
    # or
    yarn start
    ```
+   ## 🌐 Deployment
+
+The application is deployed and available at the following link:
+
+- **Deployment URL**: https://atyam-pravallika.github.io/Widget_Manager/
