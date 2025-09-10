@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Widget_Manager/static/css/main.7e1d0414.css",
+    "main.js": "/Widget_Manager/static/js/main.ea927721.js",
+    "index.html": "/Widget_Manager/index.html",
+    "main.7e1d0414.css.map": "/Widget_Manager/static/css/main.7e1d0414.css.map",
+    "main.ea927721.js.map": "/Widget_Manager/static/js/main.ea927721.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e1d0414.css",
+    "static/js/main.ea927721.js"
+  ]
+}
