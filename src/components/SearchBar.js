@@ -3,13 +3,17 @@ import { TextField, InputAdornment } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 
 function SearchBar({ value, onChange }) {
+  const handleChange = (e) => {
+    onChange?.(e.target.value); // always pass only the string value
+  };
+
   return (
     <TextField
       fullWidth
       variant="outlined"
       label="Search widgets"
       value={value}
-      onChange={onChange}
+      onChange={handleChange}
       InputProps={{
         startAdornment: (
           <InputAdornment position="start">
